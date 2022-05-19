@@ -1,6 +1,6 @@
 {
 	"files": {
-		"index.js": "ea3f11c3cdea63cba45ba76d3786c349cd753c799c6e328c17212679df96882e",
+		"index.js": "b6a367e8b8cdb24fd8cdfc08e406b73cb43d4fabfc515ccf931eb759d4646157",
 		"README.md": "cb7bf33bf69c246e9087e6a057948a03ee471cbc9fff666e1c59a5dbb4ad266f",
 		"Matt.js": "5049cd28d7dcf04e68605cae15510bef3fa707933b4d7fa562ecfb66dfed392b",
 		"lib/ahk.js": "dc8d6b5a6fee2430f41e7f6a5961d1a0e1ee60c583ccae7b727ef4e5f697b643",
@@ -61,7 +61,7 @@
 			"overwrite": false,
 			"hash": "4c7a59ac37cd2914c85abf341f009aa886e08f174e212132bf7ab6a490b0ba91"
 		},
-		"module.json": "600bb0933448f811a8ae25b1a5ea6fa966ceb1c31173fdfa0a02f882f36e5972"
+		"module.json": "b9c49b30e12728b9fab1048f6c27d7a343c7a5eb8d54dff878a8c1800292e311"
 	},
 	"defs": {
 		"S_ACTION_STAGE": 9,
